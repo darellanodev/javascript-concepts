@@ -1,1 +1,1 @@
-console.log("hello, click in one button to view his example")
+console.log("Hello, click on a button to view its example.")
