@@ -2,7 +2,7 @@
 
 ## About
 
-This is a collection of JavaScript concepts with examples in the context of a game I am making called Gif Tower Defense. You can play it to get an idea of the examples. There is no especific order in the concepts. _(THIS APPLICATION IS IN AN EARLY STAGE OF DEVELOPMENT)_
+This is a collection of JavaScript concepts with examples in the context of a game I am making called [Gif Tower Defense](https://github.com/darellanodev/gif-tower-defense). You can play it to get an idea of the examples. There is no especific order in the concepts. _(THIS APPLICATION IS IN AN EARLY STAGE OF DEVELOPMENT)_
 
 ## How to run them
 
