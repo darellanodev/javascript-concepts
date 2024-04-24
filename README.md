@@ -7,3 +7,7 @@ This is a collection of JavaScript concepts with examples in the context of a ga
 ## How to run them
 
 You can use VSCode with Live Server extension opening index.html. Also you can use JavaScript REPL VSCODE extension inside js files.
+
+## Api directory
+
+There are some scripts in the `api` directory to simulate api endpoints for some examples
