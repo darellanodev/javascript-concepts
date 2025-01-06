@@ -15,6 +15,10 @@ This is a collection of JavaScript concepts with examples in the context of a ga
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net)
 
+## Screenshots
+
+![javascript concepts screenshot](https://github.com/darellanodev/javascript-concepts/blob/main/img_github_readme/screenshot.png?raw=true)
+
 ## How to run them
 
 You can use VSCode with Live Server extension opening index.html. Also you can use JavaScript REPL VSCODE extension inside js files.
