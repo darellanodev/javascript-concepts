@@ -21,7 +21,7 @@ This is a collection of JavaScript concepts with examples in the context of a ga
 
 ## Try it online
 
-<https://darellanodev.github.io/playablegames/jsconcepts/index.html>
+<https://darellanodev.github.io/tryitonline/jsconcepts/index.html>
 
 ## How to run them
 
